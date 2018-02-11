@@ -1,7 +1,7 @@
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
-The program needs JRE (Java Runtime Environment) in your Operating System
+The program needs JRE (Java Runtime Environment) and NetBeans in your Operating System
 To run program, you should import the whole project folder (DocsOn) in NetBeans by clicking open project and selecting the project folder in NetBeans.
 After that, execute project and start to use the program with login the window.
 To connect the database, you should set the MySQL server or SQLite local file in the login page by clicking the SQL option button in the application.
